@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @419362
-- 👀 I’m interested in weight lifting and coding;)
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning html/python
 
 <!---
